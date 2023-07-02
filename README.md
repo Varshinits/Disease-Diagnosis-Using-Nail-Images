@@ -15,7 +15,8 @@ NOTE: DiseaseDiagnosisUsingNailImages is the main directory of the project. The 
 3. Proposed Method
 
    We have trained 5 models and the details are as follows:
-   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/329421a2-533e-4cad-ae16-85a94a0122ac)
+   
+   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/3a398c20-d4c8-4740-9982-3716bc52a9a5)
 
     All the trained model weights can also be found in the same link as that of the dataset.
 
