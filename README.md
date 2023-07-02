@@ -16,7 +16,7 @@ NOTE: DiseaseDiagnosisUsingNailImages is the main directory of the project. The 
 
    We have trained 5 models and the details are as follows:
    
-   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/3a398c20-d4c8-4740-9982-3716bc52a9a5)
+   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/10a72b2e-a5e3-40e8-9711-ced4f856e7b4)
 
     All the trained model weights can also be found in the same link as that of the dataset.
 
@@ -35,6 +35,7 @@ NOTE: DiseaseDiagnosisUsingNailImages is the main directory of the project. The 
 1. Download DiseaseDiagnosisUsingNailImages folder and unzip the folder.
 2. Download the models from the drive link unzip the folder and move the contents. Ensure the DiseaseDiagnosisUsingNailImages folder looks like that in below image:
    
-   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/51fb32c6-8548-413d-a297-f55577c2ecab)
+   ![image](https://github.com/Varshinits/Disease-Diagnosis-Using-Nail-Images/assets/83009058/5aeec454-fcfd-4271-b1b7-88f4f6a3efa8)
+
 3. Open DiseaseDiagnosisUsingNailImages folder using VSCode or any preferred ide and run app.py
 4. NOTE: replace the .h5 file name with other models or any other trained model in app.py to try working of other models. Also PNG file shown in the image is not added in the repository as those images were used just to check the working of the web app and model. The images can be used according to personal preferrence.
